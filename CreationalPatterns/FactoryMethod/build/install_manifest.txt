@@ -1,0 +1,1 @@
+/home/chas/00_temp/design_pattern/CreationalPatterns/FactoryMethod/install/bin/factory_method

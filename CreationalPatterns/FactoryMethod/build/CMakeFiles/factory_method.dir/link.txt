@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/factory_method.dir/main.o -o factory_method 
